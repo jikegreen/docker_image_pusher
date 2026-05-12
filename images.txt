@@ -1,4 +1,4 @@
-rke-extended-life/hyperkube:v1.32.13-rancher1
+rancher/hyperkube:v1.30.14-rancher1-1
 rancher/mirrored-flannel-flannel:v0.28.1
 rancher/flannel-cni:v1.4.1-rancher1
 rancher/mirrored-calico-node:v3.30.2
